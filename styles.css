@@ -1,11 +1,9 @@
 body {
-  font-size: 32;
-  font-family: verdana;
-  padding: 25px 50px 75px;
   color: violet;
-}
-
-body {
+  font-size: 32px;
+  font-family: sans-sarif;
+  
+h1 {
   color: black;
 }
 
