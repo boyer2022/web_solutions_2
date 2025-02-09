@@ -2,15 +2,17 @@
   color: violet;
   font-size: 32px;
   font-family: sans-sarif;
-  font-decoration: bold;
+  font-style: bold;
   margin: 60px;
 }
   
 h1 {
   color: black;
+  
 }
 
 body {
   background-color: lightblue;
+  margin: 60px;
 }
 
