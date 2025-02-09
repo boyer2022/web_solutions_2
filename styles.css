@@ -1,7 +1,12 @@
-title {
-  font-size: 24;
+head {
+  font-size: 32;
   font-family: verdana;
-  margin: 25px 50px 75px;
+  padding: 25px 50px 75px;
+  color: violet;
+}
+
+body {
+  color: black;
 }
 
 body {
